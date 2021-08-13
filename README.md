@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/languages/code-size/swarup4741/spark?style=for-the-badge&labelColor=000000&color=brightgreen">
 </a> -->
 
-<a aria-label="License" href="https://github.com/swarup4741/spark/blob/main/LICENSE">
+<a aria-label="License" href="https://github.com/swarup4741/spark/blob/main/license.md">
     <img src="https://img.shields.io/github/license/swarup4741/spark?color=blueviolet&style=for-the-badge&labelColor=000000">
 </a>
 
