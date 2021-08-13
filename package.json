@@ -2,15 +2,13 @@
     "name": "spark",
     "version": "1.0.0",
     "description": "A CLI to bootstrap a vanilla js project",
-    "main": "src/cli.js",
+    "author": "Swarup Kumar Das",
+    "bugs": {
+        "url": "https://github.com/swarup4741/spark/issues"
+    },
     "bin": {
         "spark": "bin/spark",
         "@swarup4741/spark": "bin/spark"
-    },
-    "author": "Swarup Kumar Das",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/swarup4741/spark.git"
     },
     "dependencies": {
         "arg": "^5.0.0",
@@ -21,14 +19,21 @@
         "ncp": "^2.0.0",
         "ora": "^5.4.1"
     },
+    "files": [
+        "bin",
+        "src",
+        "templates"
+    ],
+    "homepage": "https://github.com/swarup4741/spark#readme",
     "keywords": [
         "cli",
         "spark",
         "vanillajs"
     ],
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/swarup4741/spark/issues"
-    },
-    "homepage": "https://github.com/swarup4741/spark#readme"
+    "main": "src/cli.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/swarup4741/spark.git"
+    }
 }
