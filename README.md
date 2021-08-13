@@ -3,16 +3,12 @@
 
 <p align="center">
 
-<!-- <a aria-label="Version" href="https://github.com/swarup4741/spark/blob/main/NPM">
-    <img src="https://img.shields.io/npm/v/swarup4741/spark?color=black&style=for-the-badge&labelColor=000000">
+<a aria-label="Version" href="https://www.npmjs.com/package/spark-v">
+    <img src="https://img.shields.io/npm/v/spark-v?color=blueviolet&style=for-the-badge&labelColor=000000">
 </a>
 
-<a aria-label="Repo Size" href="https://github.com/swarup4741/spark/blob/main/NPM">
-    <img src="https://img.shields.io/github/languages/code-size/swarup4741/spark?style=for-the-badge&labelColor=000000&color=brightgreen">
-</a> -->
-
 <a aria-label="License" href="https://github.com/swarup4741/spark/blob/main/license.md">
-    <img src="https://img.shields.io/github/license/swarup4741/spark?color=blueviolet&style=for-the-badge&labelColor=000000">
+    <img src="https://img.shields.io/github/license/swarup4741/spark?color=brightgreen&style=for-the-badge&labelColor=000000">
 </a>
 
 <a aria-label="Tweet Link" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fgithub.com%2Fswarup4741%2Fspark">
@@ -28,7 +24,7 @@
 #### Not yet released !!
 
 ```sh
-npm install -g spark
+npm install -g spark-v
 ```
 
 ## Using Spark

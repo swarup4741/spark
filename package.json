@@ -1,6 +1,6 @@
 {
-    "name": "spark",
-    "version": "1.0.0",
+    "name": "spark-v",
+    "version": "1.0.1",
     "description": "A CLI to bootstrap a vanilla js project",
     "author": "Swarup Kumar Das",
     "bugs": {
@@ -32,6 +32,9 @@
     ],
     "license": "MIT",
     "main": "src/cli.js",
+    "publishConfig": {
+        "access": "public"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/swarup4741/spark.git"
