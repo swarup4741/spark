@@ -21,8 +21,6 @@
 
 ## Installating Spark
 
-#### Not yet released !!
-
 ```sh
 npm install -g spark-v
 ```
