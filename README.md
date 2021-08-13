@@ -1,4 +1,4 @@
-<h1 align="center">Spark</h1>
+<h1 align="center"><a href="https://www.npmjs.com/package/spark-v">Spark</a></h1>
 <p align="center">A CLI to bootstrap a vanilla js project</p>
 
 <p align="center">
